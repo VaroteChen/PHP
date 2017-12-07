@@ -39,5 +39,10 @@ class Student extends Person {
     }
 }
 
+?>
 
+
+<?php
+
+    echo '123ABC';
 ?>
